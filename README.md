@@ -1,4 +1,4 @@
-This folder contains the R scripts of analyses used in dinoflagellate study. 
+This folder contains the R scripts of analyses used in the dinoflagellate study. 
 
 Description of uploaded files:
 
