@@ -1,3 +1,8 @@
+---
+Title: "Composition and distribution of dinoflagellate cysts in surficial sediments and their linkages to phytoplankton community in the bays of three eastern islands of the Philippines"
+Authors: Ravelo SFP, Yap-Dejeto LG, Ocaña AN, Noroña JVT, Silaras MLS, Cecilio JMC, Amascual RM     
+---
+
 ##Canonical Correspondence Analysis
 
 library(vegan)
@@ -71,8 +76,3 @@ ggplot(df_species,
   #Set x and y axis titles
   labs(x=paste0("CCA1 (",cca1_varex," %)"),
        y=paste0("CCA2 (",cca2_varex," %)"))
-
-
-
-
-
